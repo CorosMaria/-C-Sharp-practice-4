@@ -1,0 +1,20 @@
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Binar - Vumetru\obj\Debug\Binar - Vumetru.csprojResolveAssemblyReference.cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Binar - Vumetru\obj\Debug\Binar___Vumetru.Form1.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Binar - Vumetru\obj\Debug\Binar___Vumetru.Properties.Resources.resources
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Binar - Vumetru\obj\Debug\Binar - Vumetru.csproj.GenerateResource.Cache
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Binar - Vumetru\bin\Debug\Binar - Vumetru.exe.config
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Binar - Vumetru\bin\Debug\Binar - Vumetru.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Binar - Vumetru\bin\Debug\Binar - Vumetru.pdb
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Binar - Vumetru\obj\Debug\Binar - Vumetru.exe
+D:\MARIA\Anul 1\Semestrul 2\Programare\Programe\Binar - Vumetru\obj\Debug\Binar - Vumetru.pdb
+C:\Users\Maria\Downloads\Aplicatii-CSharp-4-master\Binar - Vumetru\bin\Debug\Binar - Vumetru.exe.config
+C:\Users\Maria\Downloads\Aplicatii-CSharp-4-master\Binar - Vumetru\bin\Debug\Binar - Vumetru.exe
+C:\Users\Maria\Downloads\Aplicatii-CSharp-4-master\Binar - Vumetru\bin\Debug\Binar - Vumetru.pdb
+C:\Users\Maria\Downloads\Aplicatii-CSharp-4-master\Binar - Vumetru\obj\Debug\Binar - Vumetru.csproj.AssemblyReference.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-4-master\Binar - Vumetru\obj\Debug\Binar - Vumetru.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-4-master\Binar - Vumetru\obj\Debug\Binar___Vumetru.Form1.resources
+C:\Users\Maria\Downloads\Aplicatii-CSharp-4-master\Binar - Vumetru\obj\Debug\Binar___Vumetru.Properties.Resources.resources
+C:\Users\Maria\Downloads\Aplicatii-CSharp-4-master\Binar - Vumetru\obj\Debug\Binar - Vumetru.csproj.GenerateResource.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-4-master\Binar - Vumetru\obj\Debug\Binar - Vumetru.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Downloads\Aplicatii-CSharp-4-master\Binar - Vumetru\obj\Debug\Binar - Vumetru.exe
+C:\Users\Maria\Downloads\Aplicatii-CSharp-4-master\Binar - Vumetru\obj\Debug\Binar - Vumetru.pdb

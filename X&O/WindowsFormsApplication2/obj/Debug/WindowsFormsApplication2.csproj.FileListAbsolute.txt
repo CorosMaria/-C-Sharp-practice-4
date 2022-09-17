@@ -1,0 +1,16 @@
+D:\MARIA\Programare\2 A doua tema programare- X&O\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\MARIA\Programare\2 A doua tema programare- X&O\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\MARIA\Programare\2 A doua tema programare- X&O\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+D:\MARIA\Programare\2 A doua tema programare- X&O\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\MARIA\Programare\2 A doua tema programare- X&O\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\MARIA\Programare\2 A doua tema programare- X&O\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\MARIA\Programare\2 A doua tema programare- X&O\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\MARIA\Programare\2 A doua tema programare- X&O\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\MARIA\Programare\2 A doua tema programare- X&O\X&O\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\MARIA\Programare\2 A doua tema programare- X&O\X&O\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\MARIA\Programare\2 A doua tema programare- X&O\X&O\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\MARIA\Programare\2 A doua tema programare- X&O\X&O\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\MARIA\Programare\2 A doua tema programare- X&O\X&O\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\MARIA\Programare\2 A doua tema programare- X&O\X&O\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\MARIA\Programare\2 A doua tema programare- X&O\X&O\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\MARIA\Programare\2 A doua tema programare- X&O\X&O\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
